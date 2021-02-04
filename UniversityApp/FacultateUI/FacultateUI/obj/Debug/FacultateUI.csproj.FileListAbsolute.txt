@@ -1,0 +1,39 @@
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.exe.config
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.exe
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.pdb
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.csprojAssemblyReference.cache
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareCursuri.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareNote.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareProfesori.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareStudenti.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Dashboard.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.DashboardAdmin.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.LogIn.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Register.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Properties.Resources.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.StergereConturi.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.VizualizareCursuri.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.csproj.GenerateResource.cache
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.exe
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.pdb
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.ModificareConturi.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.exe.config
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.exe
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.pdb
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.csprojAssemblyReference.cache
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareCursuri.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareNote.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareProfesori.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareStudenti.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Dashboard.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.DashboardAdmin.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.LogIn.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.ModificareConturi.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Register.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Properties.Resources.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.StergereConturi.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.VizualizareCursuri.resources
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.csproj.GenerateResource.cache
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.csproj.CoreCompileInputs.cache
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.exe
+D:\Proiecte\UniversityDB-master\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.pdb
